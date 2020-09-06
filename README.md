@@ -1,4 +1,4 @@
-# waibibabu
+# chieru-go
 
 ## Project setup
 ```
